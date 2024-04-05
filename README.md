@@ -52,10 +52,20 @@ Projetos de aprendizado desenvolvidos durante os NLW - Next Level Week da escola
 </div>
 </div>
 
-## NLW #3 - HAPPY ORFANATO - 2020
+## NLW #3 - HAPPY ORFANATO - Outubro 2020
 <div class="nlw-row" style="display:flex;padding:10px;">
 <div class="nlw-brand">
   <img src="./src/img/nlwhappy3.png" alt="logo nlw-happy">
+</div>
+<div class="nlw-description">
+<p>NLW - Trilha Ignite</p>
+</div>
+</div>
+
+## NLW #2 - PROFFY - 2020
+<div class="nlw-row" style="display:flex;padding:10px;">
+<div class="nlw-brand">
+  <img src="./src/img/nlwproffy.png" alt="logo nlw-proffy">
 </div>
 <div class="nlw-description">
 <p>NLW - Trilha Ignite</p>
