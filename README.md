@@ -32,8 +32,15 @@ Projetos de aprendizado desenvolvidos durante os NLW - Next Level Week da escola
 </div>
 </div>
   
-## NLW - UNITE - TRILHA NODEJS - abril 2024
-- em atualização
+## NLW - RETURN - TRILHA IGNITE - Maio 2022
+<div class="nlw-row" style="display:flex;padding:10px;">
+<div class="nlw-brand">
+  <img src="./src/img/nlwreturnlogo.png" alt="logo nlw-return">
+</div>
+<div class="nlw-description">
+<p>NLW - Trilha Ignite</p>
+</div>
+</div>
 
 ## NLW - RETURNS - TRILHA REACT/REACT NATIVE  - Maio 2022
 - em atualização
