@@ -31,6 +31,16 @@ Projetos de aprendizado desenvolvidos durante os NLW - Next Level Week da escola
 <p>NLW - Trilha Ignite</p>
 </div>
 </div>
+
+## NLW - E-SPORTS - TRILHA IGNITE  - Setembro 2022
+<div class="nlw-row" style="display:flex;padding:10px;">
+<div class="nlw-brand">
+  <img src="./src/img/nlwsportslogo.png" alt="logo nlw-esports">
+</div>
+<div class="nlw-description">
+<p>NLW - Trilha Ignite</p>
+</div>
+</div>
   
 ## NLW - RETURN - TRILHA IGNITE - Maio 2022
 <div class="nlw-row" style="display:flex;padding:10px;">
@@ -42,5 +52,4 @@ Projetos de aprendizado desenvolvidos durante os NLW - Next Level Week da escola
 </div>
 </div>
 
-## NLW - RETURNS - TRILHA REACT/REACT NATIVE  - Maio 2022
-- em atualização
+
