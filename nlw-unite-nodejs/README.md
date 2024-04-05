@@ -97,7 +97,7 @@ npx tsx watch src/server.ts
 
 npm run dev - executar o script diretamente
 
-## FRAMEWORK Fastfy
+## FRAMEWORK Fastify / Express mais antigo
 npm install fastify 
 Micro framework de node para facilitar na criação de rotas da API
 
