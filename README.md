@@ -15,7 +15,7 @@ Projetos de aprendizado desenvolvidos durante os NLW - Next Level Week da escola
 ## NLW - SPACETIME - TRILHA IGNITE - Maio 2023
 <div class="nlw-row" style="display:flex;padding:10px;">
 <div class="nlw-brand">
-  <img src="./src/img/nlwspacetime.png.png" alt="logo nlw-spacetime">
+  <img src="./src/img/nlwspacetime.png" alt="logo nlw-spacetime">
 </div>
 <div class="nlw-description">
 <p>NLW - Trilha Ignite</p>
