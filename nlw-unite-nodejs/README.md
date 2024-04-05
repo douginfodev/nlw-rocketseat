@@ -80,3 +80,24 @@ CREATE UNIQUE INDEX "attendees_event_id_email_key" ON "attendees"("event_id", "e
 -- CreateIndex
 CREATE UNIQUE INDEX "check_ins_attendeeId_key" ON "check_ins"("attendeeId");
 ```
+
+# RESUMO DE APRENDIZAGEM
+
+## Instalar typescrit no projeto
+npm install typescript @types/node -D
+
+## Criando o tsconfig.json
+npx tsc --init
+
+## Converter automatico ts para js
+npm install tsx -D
+
+executa o arquivo ts e gerar o js por debaixo dos panos e atualizar automaticamente
+npx tsx watch src/server.ts
+
+npm run dev - executar o script diretamente
+
+## FRAMEWORK Fastfy
+npm install fastify 
+Micro framework de node para facilitar na criação de rotas da API
+
