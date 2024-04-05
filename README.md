@@ -21,6 +21,16 @@ Projetos de aprendizado desenvolvidos durante os NLW - Next Level Week da escola
 <p>NLW - Trilha Ignite</p>
 </div>
 </div>
+
+## NLW - COPA - TRILHA IGNITE - Novembro 2022
+<div class="nlw-row" style="display:flex;padding:10px;">
+<div class="nlw-brand">
+  <img src="./src/img/nlwcopa.png" alt="logo nlw-copa">
+</div>
+<div class="nlw-description">
+<p>NLW - Trilha Ignite</p>
+</div>
+</div>
   
 ## NLW - UNITE - TRILHA NODEJS - abril 2024
 - em atualização
