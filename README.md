@@ -3,7 +3,7 @@
 Projetos de aprendizado desenvolvidos durante os NLW - Next Level Week da escola Rocketseat.
 
 ## NLW - UNITE - TRILHA NODEJS - Abril 2024
-<div class="nlw-row" style="display:inline-block;padding:10px;">
+<div class="nlw-row" style="display:flex;padding:10px;">
 <div class="nlw-brand">
   <img src="./src/img/nlwunitelogo.png" alt="logo nlw-unite">
 </div>
@@ -12,8 +12,15 @@ Projetos de aprendizado desenvolvidos durante os NLW - Next Level Week da escola
 </div>
 </div>
 
-## NLW - SPACETIME - TRILHA REACT/REACT NATIVE - Maio 2023
-- em atualização
+## NLW - SPACETIME - TRILHA IGNITE - Maio 2023
+<div class="nlw-row" style="display:flex;padding:10px;">
+<div class="nlw-brand">
+  <img src="./src/img/nlwspacetime.png.png" alt="logo nlw-spacetime">
+</div>
+<div class="nlw-description">
+<p>NLW - Trilha Ignite</p>
+</div>
+</div>
   
 ## NLW - UNITE - TRILHA NODEJS - abril 2024
 - em atualização
