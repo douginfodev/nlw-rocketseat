@@ -14,6 +14,16 @@ Escola Rocketseat.
 </div>
 </div>
 
+## NLW - JOURNEY - TRILHAS NODEJS e REACT - Julho 2024
+<div class="nlw-row" style="display:flex;padding:10px;">
+<div class="nlw-brand">
+  <img src="./src/img/nlwjourneylogo.png" alt="logo nlw-journey">
+</div>
+<div class="nlw-description">
+<p>NLW Journey - Trilhas Nodejs e React</p>
+</div>
+</div>
+
 ## NLW - UNITE - TRILHA NODEJS - Abril 2024
 <div class="nlw-row" style="display:flex;padding:10px;">
 <div class="nlw-brand">
