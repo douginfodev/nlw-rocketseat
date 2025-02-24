@@ -1,6 +1,18 @@
 # NLW - NEXT LEVEL WEEK - by ESCOLA ROCKETSEAT
 
-Projetos de aprendizado desenvolvidos durante os NLW - Next Level Week da escola Rocketseat.
+Projetos de aprendizado, desenvolvidos durante as aulas,
+das Semanas de Estudos NLW(Next Level Week) da 
+Escola Rocketseat.
+
+## NLW - CONNECT - TRILHA NODEJS - Fevereiro 2025
+<div class="nlw-row" style="display:flex;padding:10px;">
+<div class="nlw-brand">
+  <img src="./src/img/nlwconnectlogo.png" alt="logo nlw-connect 2025">
+</div>
+<div class="nlw-description">
+<p>NLW Connect 2025 - Trilha NodeJS</p>
+</div>
+</div>
 
 ## NLW - UNITE - TRILHA NODEJS - Abril 2024
 <div class="nlw-row" style="display:flex;padding:10px;">
